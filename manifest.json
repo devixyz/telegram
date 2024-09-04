@@ -1,7 +1,7 @@
 {
-    "url": "app.evaa.finance",
-    "name": "EVAA",
+    "url": "https://t.me/TokenFatebot",
+    "name": "TokenFatebot",
     "iconUrl": "https://telegra.ph/file/b0bbedfd6df0e92ef2c86.jpg",
-    "termsOfUseUrl": "https://telegra.ph/file/0ef932d764be6d3d81d42.png",
-    "privacyPolicyUrl": "https://telegra.ph/file/0ef932d764be6d3d81d42.png"
+  "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
+  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
 }
