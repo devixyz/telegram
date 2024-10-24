@@ -1,0 +1,8 @@
+{
+    "req_ram_mb": 4096,
+    "req_gpu_ram_mb": 2048,
+    "req_hd_mb": 10000,
+    "service_port": 9090,
+    "docker_source": "ollama",
+    "docker_image": "ollama/official-image"
+}
